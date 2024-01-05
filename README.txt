@@ -1,33 +1,16 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Project Overview
+This project consists of a personal portfolio website that showcases various web applications developed by the author. The website is built using HTML5 and CSS. The portfolio section of the website is divided into multiple sections, each representing a different project.
 
+Projects
+Elective Selection Web Application: This is a tool developed for students at Burley Middle School to submit their primary and alternate elective choices via a web application. The application was built using HTML5, CSS, and React.js with Google Sheets as the backend.
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+VA Acceleration Grant Provider: This web application was developed to assist students in Virginia to find accredited providers for private tutoring. The application allows parents to search for providers by city and also graphically via a MapBox. The application was built using MongoDB, Express, Vanilla Javascript, and Node.js.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Skills
+The skills section of the website is yet to be completed.
 
-(* = Not included)
+How to Run
+To view the website, open the index.html file in a web browser.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Contributions
+As this is a personal portfolio website, contributions are not currently being accepted. However, feedback and suggestions are always welcome.
